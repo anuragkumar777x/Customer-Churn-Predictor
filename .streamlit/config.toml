@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#4CAF50"  # Green for highlights (buttons, sliders, etc.)
+secondaryBackgroundColor = "#E9ECEF"  # Sidebar and input boxes background
+textColor = "#212529"  # Dark gray text for readability
+font = "sans serif"  # Modern font style
