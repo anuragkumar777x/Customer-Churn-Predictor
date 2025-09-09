@@ -14,6 +14,7 @@ from chatbot import CustomerRetentionChatbot
 load_dotenv()
 st.set_page_config(page_title="Customer Churn Prediction", page_icon="📊", layout="wide")
 
+
 def init_session_state():
     # Set up session state variables if they don't exist
     default_state = {
